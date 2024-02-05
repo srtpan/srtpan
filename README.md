@@ -3,8 +3,13 @@
 I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ data! 
 
 🔭 I’m currently working at Nationwide Insurance as a Data Scientist, bonus points if you sang *"Nationwide is on your side"*, we are already friends!
+
+
 🌱 In the data world, my current explorations are green AI, ethical AI, user-centered AI, and LLMs
+
+
 😄 Outside of work, you will find me cooking, binging on podcasts, or reading a cozy book in a cute corner of my home
+
 
 **My Professional life in a nutshell:**
 
