@@ -29,5 +29,8 @@ I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ 
 
 
 **2015-2017:** Caught up on data science buzz and started experimenting with data
-<br>
+
+
+
+
 I would love to connect with you, collaborate, and chat more. Connect with me on LinkedIn or send an email to srt.pands@gmail.com
