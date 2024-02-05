@@ -10,7 +10,7 @@ I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ 
 
 **2022-Present:** Nationwide Insurance (first as a contractor and full-time since June 2023)
 
-I work as an analytic scientist, helping our business partners optimize processes, boost sales, and serve our customers in the best way
+  I work as an analytic scientist, helping our business partners optimize processes, boost sales, and serve our customers in the best way
 
 
 **2021-2023:** Duke University, MS in Data Analytics and Machine Learning
