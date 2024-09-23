@@ -2,7 +2,7 @@
 
 I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ data! 
 
-🔭 I’m currently working at Nationwide Insurance as a Data Scientist, bonus points if you sang *"Nationwide is on your side"*, we are already friends!
+🔭 I’m currently working at CVS Health doing software engineering work to support their mighty predictive model. Previously, I was at Nationwide Insurance. Bonus points, if you sang *"Nationwide, is on your side"*, we are already friends!
 
 
 🌱 In the data world, my current explorations are green AI, ethical AI, user-centered AI, and LLMs
@@ -13,7 +13,9 @@ I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ 
 
 **My Professional life in a nutshell:**
 
-**2022-Present:** Nationwide Insurance (first as a contractor and full-time since June 2023)
+**2024-Present:** CVS Health
+
+**2022-2024:** Nationwide Insurance (first as a contractor and full-time since June 2023)
 
 &emsp; I work as an analytic scientist, helping our business partners optimize processes, boost sales, and serve our customers in the best way
 
