@@ -2,7 +2,9 @@
 
 I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ data! 
 
-🔭 I’m currently working at CVS Health, leading their GenAI initiatives to reduce time-to-market strategies for Caremark. I work intensively with prescription data and support underwriters with pricing, forecasting utilization, and AI integration. Previously, I worked at Nationwide as an internal consultant for the annuities department, supporting them with AI integration, underwriting, and competitive landscaping. 
+🔭 I’m currently working at CVS Health, leading their GenAI initiatives to reduce time-to-market strategies for Caremark. I work intensively with prescription data and support underwriters with pricing, forecasting utilization, and AI integration. 
+
+Previously, I worked at Nationwide as an internal consultant for the annuities department, supporting them with AI integration, underwriting, and competitive landscaping. 
 
 
 🌱 In the data world, my current explorations are hardware AI integrations and women's health. 
