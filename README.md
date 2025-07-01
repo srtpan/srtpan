@@ -2,10 +2,10 @@
 
 I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ data! 
 
-🔭 I’m currently working at CVS Health doing software engineering work to support their mighty predictive model. Previously, I was at Nationwide Insurance. Bonus points, if you sang *"Nationwide, is on your side"*, we are already friends!
+🔭 I’m currently working at CVS Health, leading their GenAI initiatives to reduce time-to-market strategies for Caremark. I work intensively with prescription data and support underwriters with pricing, forecasting utilization, and AI integration. Previously, I worked at Nationwide as an internal consultant for the annuities department, supporting them with AI integration, underwriting, and competitive landscaping. 
 
 
-🌱 In the data world, my current explorations are green AI, ethical AI, user-centered AI, and LLMs
+🌱 In the data world, my current explorations are hardware AI integrations and women's health. 
 
 
 😄 Outside of work, you will find me cooking, binging on podcasts, or reading a cozy book in a cute corner of my home
@@ -15,9 +15,7 @@ I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ 
 
 **2024-Present:** CVS Health
 
-**2022-2024:** Nationwide Insurance (first as a contractor and full-time since June 2023)
-
-&emsp; I work as an analytic scientist, helping our business partners optimize processes, boost sales, and serve our customers in the best way
+**2022-2024:** Nationwide Insurance 
 
 
 **2021-2023:** Duke University, MS in Data Analytics and Machine Learning
@@ -36,8 +34,6 @@ I am Shruti, a data nerd who went to Duke to geek out more about ~~basketball~~ 
 
 
 **2015-2017:** Caught up on data science buzz and started experimenting with data
-
-
 
 
 I would love to connect with you, collaborate, and chat more. Connect with me on LinkedIn or send an email to srt.pands@gmail.com
